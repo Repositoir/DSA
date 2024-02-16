@@ -5,8 +5,8 @@
 Date:
 
 Members:
-- First student
-- Second student
+- Aritra Biswas - 545606
+- Dung Phan - 
 
 ## Activities
 
