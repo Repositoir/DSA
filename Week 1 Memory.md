@@ -6,7 +6,7 @@ Date:
 
 Members:
 - Aritra Biswas - 545606
-- Dung Phan - 
+- Dung Phan - 546821
 
 ## Activities
 
