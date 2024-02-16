@@ -6,7 +6,7 @@ Date:
 
 Members:
 - Aritra Biswas - 545606
-- Dung Phan - 
+- Dung Phan - 546821
 
 ## Activities
 
@@ -34,6 +34,7 @@ This is how you include code listings in your markdown document:
 #include <stdio.h>
 
 int sum_ints(void) {
+
 	int integers[1024] = {1};
 	for (int i = 1; i < 1024; ++i) integers[i] = integers[i - 1] + 1;
 	return integers[1023];
